@@ -1,3 +1,8 @@
 # DESAFIO DE PROJETO GIT/GIHUB
 
-Curso da Dio
+
+Repositorio criado para o Desafio da Dio.
+
+## Links Utéis
+
+[Dio.me](https://www.dio.me/)
